@@ -68,7 +68,7 @@ function Employees(){
             setEmail("");
             setFlag(false)
         }else{
-            alert("All fields required!")
+            alert("All fields are required!")
         }
     }
 
