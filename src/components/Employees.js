@@ -74,7 +74,7 @@ function Employees(){
 
     const ShowDescription=(employee)=>{
 
-        alert(`I am ${employee.empName} ${employee.lastName} and I have done my graduation in computer science and currently I am learning about Mobile app and Web Deevelopment. `)
+        alert(`Hi! I am ${employee.empName} ${employee.lastName} and I have done my graduation in computer science and currently I am learning about Mobile app and Web Deevelopment. `)
     }
 
     return(
